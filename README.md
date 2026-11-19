@@ -1,16 +1,36 @@
-## Hi there 👋
+# Atul Bachan
 
-<!--
-**Atul-Bachan/Atul-Bachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Product Leader | AI Product Strategy | Enterprise Platforms | Product Architecture
 
-Here are some ideas to get you started:
+I build product systems that scale decisions, platforms, and customer outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over 18+ years, I've led AI products, SaaS platforms, enterprise transformation initiatives, product operating models, and customer experience innovations.
+
+## Areas of Expertise
+
+- AI Product Strategy
+- Product Operating Models
+- Enterprise Product Catalogs
+- Product Architecture
+- SaaS Platforms
+- Product Discovery
+- Customer Experience
+- AI Transformation
+
+## Featured Work
+
+📘 [AI Product Operating System](https://github.com/Atul-Bachan/ai-product-operating-system)
+
+📘 [Enterprise Product Catalog Blueprint](https://github.com/Atul-Bachan/enterprise-product-catalog-blueprint)
+
+📘 [Product Strategy Toolkit](https://github.com/Atul-Bachan/product-strategy-toolkit)
+
+📘 Bachouz Product Lab
+
+## Portfolio
+
+🔗 Notion Portfolio: https://your-notion-url
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/atulbachan
