@@ -29,7 +29,7 @@ Over 18+ years, I've led AI products, SaaS platforms, enterprise transformation 
 
 ## Portfolio
 
-🔗 Notion Portfolio: https://your-notion-url
+🔗 Notion Portfolio: [https://your-notion-url](https://app.notion.com/p/AB-s-Product-Portfolio-Snapshot-dd130c1661d84c9fb7488bb93274c1a8)
 
 ## Connect
 
