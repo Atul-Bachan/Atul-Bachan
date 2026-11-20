@@ -25,7 +25,7 @@ Over 18+ years, I've led AI products, SaaS platforms, enterprise transformation 
 
 📘 [Product Strategy Toolkit](https://github.com/Atul-Bachan/product-strategy-toolkit)
 
-📘 Bachouz Product Lab
+📘 [Bachouz Product Lab (BPL)](https://github.com/Atul-Bachan/bachouz-product-lab) — Applied R&D sandbox for rapid prototyping, UX patterns, and digital commerce systems.
 
 ## Portfolio
 
